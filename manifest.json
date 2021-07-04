@@ -13,7 +13,7 @@
       "type": "image/png"
     }
   ],
-  "start_url": "/",
+  "start_url": "/react-file-finder/",
   "display": "standalone",
   "theme_color": "#F8371B",
   "background_color": "#F3F3F3"
